@@ -1,0 +1,1 @@
+import{n as s,M as c,y as p,g as u,o as _}from"./vendor.404b58c2.js";const d=s({setup(i){const{currentRoute:r,replace:t}=c(),{params:o,query:a}=p(r),{path:e}=o,n=Array.isArray(e)?e.join("/"):e;return t({path:"/"+n,query:a}),(m,f)=>(_(),u("div"))}});export{d as default};

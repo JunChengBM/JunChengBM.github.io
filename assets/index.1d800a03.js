@@ -1,0 +1,1 @@
+import{cf as e}from"./vendor.404b58c2.js";/* empty css                   */const t=s=>e({showClose:!0,message:s}),a=s=>e({showClose:!0,message:s,type:"success"}),c=s=>e({showClose:!0,message:s,type:"warning"}),n=s=>e({showClose:!0,message:s,type:"error"});export{t as M,n as e,a as s,c as w};

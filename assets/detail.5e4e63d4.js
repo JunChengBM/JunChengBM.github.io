@@ -1,0 +1,1 @@
+import{n as u,L as n,o as s,g as r,t as a,y as c}from"./vendor.404b58c2.js";const _=u({setup(i){var e,t;const o=(t=(e=n().query)==null?void 0:e.id)!=null?t:-1;return(l,d)=>(s(),r("div",null,a(c(o))+" - \u8BE6\u60C5\u9875\u5185\u5BB9\u5728\u6B64",1))}});export{_ as default};
